@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Lista De Supermercado</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_data">Sin datos</string>
+
+    <string name="title">Lista De supermercado</string>
+    <string name="description">Productos-precio</string>
+    <string name="search">Buscar</string>
+    <string name="sort_by"></string>
+    <string name="priority_high">Prioridad Alta</string>
+    <string name="priority_low">Priority Low</string>
+    <string name="delete_all">Delete All</string>
+    <string name="add">Añadir</string>
+    <string name="save">Guardar</string>
+    <string name="delete">Borrar</string>
+
+    <string-array name="priorities">
+        <item>Super</item>
+        <item>Mercado</item>
+        <item>Plaza </item>
+    </string-array>
+</resources>
